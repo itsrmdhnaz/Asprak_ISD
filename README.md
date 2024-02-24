@@ -1,6 +1,8 @@
 Pembagian Tugas
 
-Ramadhan Abdul Aziz (6706223026) Membuat soal Generic dan Arralist
+Ramadhan Abdul Aziz (6706223026) Membuat soal Generic dan Arraylist
+Iqbaal Hibatulloh (6706220110) Mengerjakan Jurnal 02: Generic dan ArrayList
+
 
 Soal :
 
